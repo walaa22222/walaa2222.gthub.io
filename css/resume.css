@@ -1,0 +1,116 @@
+.img1{
+
+    height: 150px;
+    border-radius: 80px;
+    border-style: dashed;
+    width: 140px;
+    margin:10px;
+    border-color:rgb(211, 193, 193);
+    float: left;
+   
+
+}
+header{
+    background-color:rgb(124, 74, 95);
+    height: 200px;
+}
+.title{
+    text-align: center;
+
+    width: 25%;
+    float: left;
+    margin-top: 5px;
+    height: 0PX;
+    margin-left: 600px;
+  
+  
+}
+.line{
+    
+    border-bottom-style: solid;
+    border-color:rosybrown;
+    padding: 60px;
+
+}
+.icons{
+
+    clear: both;
+  margin-left: 50px;
+
+}
+.icon{
+ float: left;  
+ 
+ margin-top: -30PX;
+ margin-left: 50px;
+
+}
+.imgicon{
+    height: 30px;
+    border-radius: 100px;
+    width: 30px;
+    margin-top: -10px;
+    float: left;
+}
+nav{
+    clear: both;
+    background-color:rosybrown;
+    padding: 10px;
+}
+nav a{
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+}
+nav a:hover{
+    background-color:rgb(179, 153, 176);
+    color:black;
+}
+.active{
+    background-color:white;
+    color:black;
+}
+
+
+main{
+    clear: both;
+    margin-top: 50px;
+}
+.tixt1{
+    text-align: center;
+}
+.left{
+    width: 20%;
+    float: left;
+    background-color:rosybrown;
+    margin-left:  30px;
+    height: 600px;
+    
+
+    
+}
+.right{
+    width: 75%;
+    float: left;
+    background-color:white;
+    margin-left: 10px;
+    height: 600px;
+    margin-top: -20px;
+    
+   }
+.h3{
+    background-color: white;
+    
+}
+.text2{
+    background-color: rosybrown;
+    text-align: center;
+    
+}
+.picture{
+    margin-left: 50px;
+    margin-top: 10px;
+    float: left;
+    height: 200px;
+    width: 200px;
+}
